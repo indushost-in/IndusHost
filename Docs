@@ -1,1 +1,56 @@
 #Docs
+📘 IndusHost Documentation
+
+Professional Cloud • Minecraft Hosting • VPS • Dedicated Servers
+Maintained by Samanyu Rana
+
+🚀 1. Introduction
+
+Welcome to IndusHost — a high-performance cloud provider offering:
+
+⚡ Minecraft Server Hosting
+
+🖥️ Linux VPS & Docker Containers
+
+🧵 Custom Panels & Hosting Tools
+
+🔐 Secure, fast, scalable infrastructure
+
+🌐 Full support for UPI/INR-based clients
+
+This documentation explains setup, usage, API, and deployment instructions.
+
+📦 2. Features Overview
+Hosting Platform
+
+Minecraft Hosting (Spigot/Paper/Purpur/Bungee/Velocity)
+
+VPS Hosting via Docker or LXC
+
+Dedicated servers (manual deployment)
+
+Control Panel
+
+Web dashboard (Flask + SocketIO)
+
+Real-time resource stats
+
+Start / Stop / Restart servers
+
+File Manager + SFTP
+
+Console + Logs stream
+
+API support
+
+Add-ons
+
+Plugin Installer
+
+Blueprint installer
+
+Theme system
+
+Domain linking
+
+Backups system
