@@ -37,8 +37,8 @@ Feel free to open issues or submit pull requests.
 ## 📞 Contact
 Email: in.indushost@gmail.com
 Discord: **@samanyurana99**  
-Hosting Discord: https://discord.gg/yourinvite  
-Website: indushost.qzz.io
+Hosting Discord: https://discord.gg/indushost
+Website: https://indushost.qzz.io
 
 ---
 
